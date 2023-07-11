@@ -1,10 +1,47 @@
 .header {
     width: 1920px;
-    height:850px;
+    height: 850px;
     background-color:  #ffc5d1c2;
+
 }
-.head-text1{
-    color:  #272727;
-    padding: 70px 900px 30px 250px;
+
+.p-text{
+    padding-right: 850px;
+    color: #00000060;
+}
+.button-pure{
+    color:orangered;
+    padding: 15px 35px;
+    border-radius: 20px;
+    border-color: orangered;
+
+}
+.banner .photo{
+    width: 550px;
+    height: 700px;
+    
+    
+}
+.head-text{
+    padding: 150px 100px;
+
+}
+.banner{
+    display: flex;
+    width: 635px;
+    height: 800px;
+}
+.about{
+    padding: 20px 450px;
+
+}
+.box{
+   max-width: 590px;
+   max-height: 132px;
+    background-color:#ffc5d1d7;
+    margin: 0 auto;
+    border-radius: 25px;
+}
+.box > p{
     
 }
