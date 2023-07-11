@@ -8,10 +8,10 @@
 }
 
 .button-pure{
-    color:orangered;
+    color:#fc0032c2;
     padding: 15px 35px;
     border-radius: 5px;
-    border-color: orangered;
+    border-color:#fc345c;
 
 }
 .banner .photo{
@@ -125,4 +125,15 @@
 .discount-p{
     font-family: 'Franklin Gothic Medium';
     font-size: x-large;
+}
+.discount{
+    display: flex;
+}
+.button-text2{
+    color:#ffffffc2;
+    padding: 15px 35px;
+    border-radius: 5px;
+    border-color:#ff224e;
+    background-color: #ff224e;
+
 }
