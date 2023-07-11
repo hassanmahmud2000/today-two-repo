@@ -105,3 +105,24 @@
     height: 500px;
     
 }
+
+/*Discount Box*/
+
+.discount{
+    width: 1922px;
+    height: 622px;
+    background-color:#ffc5d163 ;
+
+}
+.discount-text h1{
+    padding: 350px 500px;
+    font-family: 'Franklin Gothic Medium';
+
+    font-size: xx-large;
+    align-items: center;
+    
+}
+.discount-p{
+    font-family: 'Franklin Gothic Medium';
+    font-size: x-large;
+}
