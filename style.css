@@ -215,6 +215,7 @@
 .search-bar{
     width: 1440px;
     height: 440px;
+
 }
 .cover{
     opacity: 50%;
@@ -228,6 +229,52 @@
     align-items: center;
     font-size: x-large;
     font-family: 'Franklin Gothic Medium';
+    padding-left: 700px;
+}
+.caption p{
+    align-items: center;
+    font-family: 'Franklin Gothic Medium';
+    padding-left: 700px;
+
+}
+.var{
+    width: 866px;
+    height: 64px;
+    margin-left: 450px;
+}
+.button-text3{
+    color:#ffffffc2;
+    padding: 15px 35px;
+    border-radius: 5px;
+    border-color:#ff224e;
+    background-color: #ff224e;
+    margin-left: 600px;
+    margin-top: 20px;
+
+}
+
+/*Footer*/
+
+.foot{
+    width: 1922px;
+    height: 449px;
+    background-color: black;
+}
+.foot .titele{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium';
+    margin-left: 350px;
+    margin-top: 350px;
+    padding-top: 50px;
+    padding-left: 430px;
+
+
+}
+.foot-p{
+    color: white;
+    font-size:medium;
+    font-family: 'Times New Roman';
     
+
 
 }
