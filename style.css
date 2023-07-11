@@ -1,29 +1,34 @@
+/* Header */
+
 .header {
     width: 1920px;
-    height: 850px;
+    height: 800px;
     background-color:  #ffc5d1c2;
 
 }
 
-.p-text{
-    padding-right: 850px;
-    color: #00000060;
-}
 .button-pure{
     color:orangered;
     padding: 15px 35px;
-    border-radius: 20px;
+    border-radius: 5px;
     border-color: orangered;
 
 }
 .banner .photo{
-    width: 550px;
-    height: 700px;
-    
-    
+    padding-left: 850px;
+    width: 620px;
+    height: 800px;  
 }
 .head-text{
-    padding: 150px 100px;
+    
+    margin-left: 280px;
+    margin-top: 200px;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.head-text p{
+    color: rgba(0, 0, 0, 0.315);
+
 
 }
 .banner{
@@ -31,17 +36,72 @@
     width: 635px;
     height: 800px;
 }
+
+/*Section About*/
 .about{
-    padding: 20px 450px;
+    padding: 10px 150px;
 
 }
 .box{
-   max-width: 590px;
+    margin-left: 580px;
+   align-content: center;
    max-height: 132px;
-    background-color:#ffc5d1d7;
-    margin: 0 auto;
-    border-radius: 25px;
+    background-color:#ffc5d171;
+    width: 550px;
+
 }
-.box > p{
+.box .peragrap{
+    padding: 10px 0px;
+    
+}
+
+/* Three Box*/
+
+.tree-box{
+    width: 1440px;
+    height: 605px;
+}
+.tree-box .fast-box{
+    background-color: #a721624b;
+    width: 400px;
+    height: 500px;
+    border-top-right-radius: 250px;
+    border-top-left-radius: 250px;
+
+}
+.tree-box .second-box{
+    background-color: #0598a059;
+    width: 400px;
+    height: 500px;
+    border-top-right-radius: 250px;
+    border-top-left-radius: 250px;
+
+}
+.tree-box .thard-box{
+    background-color: #477d114b;
+    width: 400px;
+    height: 500px;
+    border-top-right-radius: 250px;
+    border-top-left-radius: 250px;
+
+}
+.tree-box{
+    margin-left: 160px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.box-photo{
+    width: 390px;
+    height: 500px;
+}
+.box-photo2{
+    width: 350px;
+    height: 480px;
+}
+.box-photo3{
+    width: 390px;
+    height: 500px;
     
 }
